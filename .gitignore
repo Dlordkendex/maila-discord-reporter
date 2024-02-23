@@ -1,0 +1,6 @@
+node_modules
+maila/screenshots
+maila/videos
+allure-report
+allure-results
+.env

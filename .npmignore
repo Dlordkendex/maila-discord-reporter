@@ -1,0 +1,8 @@
+allure-report
+allure-results
+maila
+maila.json
+node_modules
+.env
+.github
+.prettierrc
